@@ -1,5 +1,5 @@
 
-##Responsi Praktikum Teknologi Cloud Computing.
+## Responsi Praktikum Teknologi Cloud Computing.
 
 ***
 
