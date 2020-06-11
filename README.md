@@ -3,7 +3,7 @@
 
 ***
 
-[Kurbenets Untuk Pemula atau Newbie](https://github.com/XabaraNeanthal/UAS-Responsi-Praktikum-TCC/blob/master/Newbie.md)
+[Kurbenetes Untuk Pemula atau Newbie](https://github.com/XabaraNeanthal/UAS-Responsi-Praktikum-TCC/blob/master/Newbie.md)
 
 ***
 
